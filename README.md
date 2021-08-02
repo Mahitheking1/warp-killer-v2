@@ -7,7 +7,7 @@ How to use warp-killer v2  on ( android )
 
 3.next type: pkg install python
 
-4.then type: git pkg install git
+4.then type:  pkg install git
 
 5.lastly type: git clone https://github.com/Mahitheking1/warp-killer-v2
 
